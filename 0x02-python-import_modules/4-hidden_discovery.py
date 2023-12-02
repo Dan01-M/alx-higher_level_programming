@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 #check if the script is being run as the main program above 
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""
