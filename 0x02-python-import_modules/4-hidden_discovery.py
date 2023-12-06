@@ -1,4 +1,5 @@
-#!/usr/bin/python3 
+#!/usr/bin/python3
+# program that prints all the names defined
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""
     import hidden_4
