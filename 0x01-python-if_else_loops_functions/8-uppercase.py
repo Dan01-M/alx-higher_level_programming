@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# function that prints a string in uppercas
+# function that prints a strin
 def uppercase(str):
     for i in str:
         if ord("a") <= ord(i) <= ord("z"):
