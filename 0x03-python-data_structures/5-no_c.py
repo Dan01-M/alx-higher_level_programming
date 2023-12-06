@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#function that removes all characters c and C
+#function character c
 def no_c(my_string):
     new_string = ""
     for elements in my_string:
