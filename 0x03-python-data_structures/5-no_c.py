@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#function character c
 def no_c(my_string):
     new_string = ""
     for elements in my_string:
