@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# Instantiation with optional 
-
 
 class Square:
     """Represent a square."""
