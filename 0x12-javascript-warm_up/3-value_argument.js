@@ -1,5 +1,5 @@
 #!/usr/bin/node
-# "script that prints the first argument"
+"""script that prints the first argument"""
 if (process.argv[2] === undefined) {
   console.log('No argument');
 } else {
