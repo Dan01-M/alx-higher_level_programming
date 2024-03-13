@@ -1,5 +1,4 @@
 #!/usr/bin/node
-#"write the code program"
 class Rectangle {
   constructor (w, h) {
     if ((w > 0) && (h > 0)) {
@@ -10,3 +9,4 @@ class Rectangle {
 }
 
 module.exports = Rectangle;
+" Write a program is amazing "
