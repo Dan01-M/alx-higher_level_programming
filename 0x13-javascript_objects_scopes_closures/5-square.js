@@ -6,5 +6,5 @@ class Square extends Rectangle {
     super(size, size);
   }
 }
-"Write A js program"
 module.exports = Square;
+"write a js program "
