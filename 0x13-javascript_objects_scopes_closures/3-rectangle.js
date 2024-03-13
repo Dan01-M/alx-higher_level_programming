@@ -9,4 +9,3 @@ class Rectangle {
 }
 
 module.exports = Rectangle;
-" Write a program is amazing "
