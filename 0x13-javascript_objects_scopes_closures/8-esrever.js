@@ -10,5 +10,4 @@ exports.esrever = function (list) {
     len--;
   }
   return list;
-};
-"write a javascript progrm "
+}
