@@ -1,5 +1,4 @@
 #!/usr/bin/node
-"write script by adding a new function "
 const myObject = {
   type: 'object',
   value: 12
