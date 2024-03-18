@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""  Write a script that takes in the name of a state as an argument and lists """
+"""  Write a script that takes in the name of a state as an argument."""
 import MySQLdb
 import sys
 
