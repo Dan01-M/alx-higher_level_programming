@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module that retrieves and prints the first state\."""
+""" Module that retrieves and prints the first state of sql attachment ."""
 import sys
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
