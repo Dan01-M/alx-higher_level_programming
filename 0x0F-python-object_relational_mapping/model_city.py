@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Write a Python file similar to model_state.py named model_city.py"""
+""" write a Python file similar to model_state.py named model_city.py """
 from model_state import Base
 from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy.ext.declarative import declarative_base
