@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" Write a script that deletes all State objects with a name containing the letter"""
+"""  write a prints the State object with the name passed as argument from the database
+"""
 import sys
 from model_state import Base, State
 from sqlalchemy import (create_engine)
