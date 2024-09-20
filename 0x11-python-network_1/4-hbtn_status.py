@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Write a Python script that fetches https to a python network
+Script that fetches https://intranet.hbtn.io/status
 """
 import requests
 
